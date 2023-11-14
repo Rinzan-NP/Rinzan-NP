@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rinzan-np" alt="rinzan-np" /></a> </p>
 
-- 🔭 I’m currently working on [Fashion Ecommerce](https://github.com/Rinzan-NP/fashion-ecommerce)
+- 🔭 I’m currently working on [DSA](https://github.com/Rinzan-NP/DSA)
 
 - 🌱 I’m currently learning **React,Python**
 
